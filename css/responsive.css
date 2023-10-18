@@ -14,6 +14,7 @@ File Name: responsive.css
     .relative h3 {
         padding-bottom: 25px;
     }
+
     #carouselExampleIndicators .carousel-control-prev {
         left: 3%;
     }
@@ -109,6 +110,7 @@ File Name: responsive.css
         box-shadow: 0 0 10px rgb(240, 57, 15);
         margin-bottom: 11px;
     }
+ 
     .board {
         max-width: inherit;
     }
@@ -219,6 +221,16 @@ File Name: responsive.css
     .relative h3 {
         line-height: 80px;
         font-size: 60px;
+    }
+    .skating{
+        padding-left: auto;
+        padding-right: 15rem;
+        /* background-color: red; */
+    }
+    .logo{
+        width: 100px;
+        padding: 0;
+        margin: 0;
     }
     .banner_img {
         padding-right: 0px;
